@@ -1,0 +1,20 @@
+/* .something{
+  color: red;
+} */
+
+/* .color{
+  border-radius: 50%;
+  border: 1px solid black;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+} */
+
+.container{
+  border-radius: 50%;
+  border: 1px solid black;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  
+}
